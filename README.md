@@ -1,6 +1,6 @@
 # Fall Detection System for Elderly Care
 
-Resume-aligned elderly fall detection project using Raspberry Pi and IMU sensor data. The system processes accelerometer and gyroscope readings, extracts motion features in real time, trains a machine-learning model, and raises alerts when a fall-like event is detected.
+elderly fall detection project using Raspberry Pi and IMU sensor data. The system processes accelerometer and gyroscope readings, extracts motion features in real time, trains a machine-learning model, and raises alerts when a fall-like event is detected.
 
 This project matches the resume entry:
 
